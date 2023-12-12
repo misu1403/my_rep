@@ -1,0 +1,59 @@
+[
+  [
+    "problema2.Chitara",
+    {
+      "producator": "Fender",
+      "pret": 1000.0,
+      "tip_chitara": "ELECTRICA",
+      "nr_corzi": 6
+    }
+  ],
+  [
+    "problema2.Chitara",
+    {
+      "producator": "Yamaha",
+      "pret": 800.0,
+      "tip_chitara": "ACUSTICA",
+      "nr_corzi": 4
+    }
+  ],
+  [
+    "problema2.Chitara",
+    {
+      "producator": "Gibson",
+      "pret": 3500.0,
+      "tip_chitara": "CLASICA",
+      "nr_corzi": 8
+    }
+  ],
+  [
+    "problema2.SetTobe",
+    {
+      "producator": "Yamaha",
+      "pret": 3800.0,
+      "tipTobe": "ACUSTICE",
+      "nr_tobe": 4,
+      "nr_cinele": 2
+    }
+  ],
+  [
+    "problema2.SetTobe",
+    {
+      "producator": "Pearl",
+      "pret": 1500.0,
+      "tipTobe": "ACUSTICE",
+      "nr_tobe": 8,
+      "nr_cinele": 2
+    }
+  ],
+  [
+    "problema2.SetTobe",
+    {
+      "producator": "Roland",
+      "pret": 2000.0,
+      "tipTobe": "ELECTRONICE",
+      "nr_tobe": 5,
+      "nr_cinele": 3
+    }
+  ]
+]
